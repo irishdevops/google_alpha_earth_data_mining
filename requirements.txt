@@ -1,0 +1,28 @@
+# Core
+numpy
+pandas
+matplotlib
+unidecode
+
+# Imaging / CV
+pillow
+opencv-python-headless
+
+# Geospatial
+rasterio
+earthengine-api
+geemap
+geopandas
+
+# Jupyter widgets (if using notebooks)
+ipywidgets
+ipython
+
+# Networking & tracking
+requests
+mlflow
+
+# Deep learning (CPU)
+torch
+torchvision
+fastai
